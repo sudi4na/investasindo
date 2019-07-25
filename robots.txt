@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /?display=wide
+Disallow: /readme.html
+Disallow: /refer/
+ 
+Sitemap: https://investasindo.com/sitemap.xml
